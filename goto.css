@@ -1,0 +1,45 @@
+.format_img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.tables {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 500px;
+  height: 45px;
+}
+.navig {
+  position: sticky;
+  top: 0;
+  scroll-margin-top: 1em;
+  border-style: solid;
+  border-color: black;
+  background-color: black;
+  border-width: 7px 40px;
+}
+.but {
+  width: 100px;
+  height: 25px;
+  border-radius: 7px;
+  background-color: rgb(49, 238, 49);
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+a > button {
+  margin-right: 20px;
+}
+.now {
+  border-color:azure;
+}
+
+.text {
+  text-align:left;
+  word-wrap: break-word;
+  width: 800px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
